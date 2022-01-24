@@ -1,5 +1,6 @@
 scikit-learn
-pillow
-pandas
+pillow~=9.0.0
+pandas==1.4.0
 numpy
-streamlit
+streamlit~=1.4.0
+altair~=4.2.0
